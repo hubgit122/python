@@ -1,0 +1,1 @@
+if 1:print 'Yes';print 'yeah';print 'yeah';print 'yeah';print "ss"*3
