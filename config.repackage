@@ -1,0 +1,1 @@
+{"process": [".*\\.java"], "lineCommentBeginString": {"java": "//"}, "platform": "Android", "defined": {"JAVA": ""}, "exclude": {"Android": ["libs/sqlite-jdbc.*"]}, "extract": {"Android": ["src/.*", "libs/.*", "assets/.*", "jni/.*", "res/.*", "gen/.*", "\\.classpath", "\\.project", "androidManifest\\.xml", "proguard\\.cfg", "project\\.properties"]}}
