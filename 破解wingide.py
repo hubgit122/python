@@ -177,7 +177,7 @@ LicenseID='CN123-12345-12345-12345'
 
 #Copy the Request Code from the dialog
 
-RequestCode='RW528-D2MB3-WWWYF-BH8NP'
+RequestCode='RW522-JJY53-9CMK3-HWYMK'
 
 hasher = sha.new()
 
